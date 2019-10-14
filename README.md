@@ -1,1 +1,2 @@
-# Lesson-8-generators
+# Lesson 8 generators
+## Generators, Generator expressions & List comprehensions
